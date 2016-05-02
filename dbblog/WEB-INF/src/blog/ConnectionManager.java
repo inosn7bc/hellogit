@@ -8,6 +8,9 @@ import java.sql.Statement;
 
 public class ConnectionManager {
 
+	/**
+	 * DBドライバ
+	 */
 	static String DRIVER = "com.mysql.jdbc.Driver";
 
 	static String URL = "jdbc:mysql://localhost/mydb";
