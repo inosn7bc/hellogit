@@ -16,6 +16,7 @@ public class BlogController {
 	}
 
 	private BlogController(){
+		//gitてすと
 
 	}
 
